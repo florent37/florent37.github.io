@@ -18,15 +18,15 @@ avatar: https://avatars2.githubusercontent.com/u/5754972?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: champigny.florent@gmail.com
+  facebook: florent.champigny
   flickr:
-  github: barryclark/jekyll-now
+  github: florent37
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: florent_champ
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
